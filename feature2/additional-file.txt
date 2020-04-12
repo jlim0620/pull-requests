@@ -1,0 +1,1 @@
+This file improves functionality in the feature 2
